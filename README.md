@@ -19,7 +19,3 @@ These files can help with:
 
 All files remain hosted on Google Drive for easy download.
 
----
-
-## 📂 Suggested folder structure (in Google Drive)
-
