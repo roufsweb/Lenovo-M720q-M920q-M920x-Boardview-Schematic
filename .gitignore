@@ -9,3 +9,8 @@ preview_test/
 Thumbs.db
 [Dd]esktop.ini
 .DS_Store
+
+# Nested projects
+roufs recomendation/
+roufs-recommendation/
+
