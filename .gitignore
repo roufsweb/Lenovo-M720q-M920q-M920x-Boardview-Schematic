@@ -1,0 +1,11 @@
+# Temporary and raw downloads
+drive-download*
+*.zip
+*.heic
+test_top.jpg
+preview_test/
+
+# System files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
